@@ -35,7 +35,7 @@ A simple command-line interface (CLI) application emulating basic functionalitie
 
 1. Clone the repository to your local machine.
    bash
-    `git clone https://github.com/SRR3I/OS_as_Terminal.git`
+    ```git clone https://github.com/SRR3I/OS_as_Terminal.git```
    
 
 2. Navigate to the project directory.
