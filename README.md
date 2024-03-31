@@ -44,7 +44,6 @@ A simple command-line interface (CLI) application emulating basic functionalitie
    
 
 3. Run the application.
-   bash
-    python command_prompt.py
+   in exe_file_installer file you could setup it on your local machine and run it
    
 
