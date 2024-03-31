@@ -2,7 +2,6 @@ import os
 import shutil
 
 
-
 def display_help():
     print("""
 Available commands:
@@ -97,6 +96,7 @@ def rename_file(old_name, new_name):
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
+    print(os.name)
 
 
 if __name__ == "__main__":
