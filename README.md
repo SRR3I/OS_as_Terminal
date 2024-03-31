@@ -1,4 +1,4 @@
-# Command Prompt
+no# Command Prompt
 
 A simple command-line interface (CLI) application emulating basic functionalities of a command prompt, built in Python.
 
@@ -44,6 +44,6 @@ A simple command-line interface (CLI) application emulating basic functionalitie
    
 
 3. Run the application.
-   in exe_file_installer file you could setup it on your local machine and run it
+   in exe_file_installer folder 📁 you could setup it on your local machine and run it
    
 
